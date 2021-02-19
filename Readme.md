@@ -1,4 +1,4 @@
-# Bad Covid Vaccine Availibilty Script
+# Bad NYS Covid Vaccine Availibilty Script
 
 A very bad script to check if there are any vaccine slots available in NYS.
 
