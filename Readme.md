@@ -8,7 +8,7 @@ A very bad script to check if there are any vaccine slots available in NYS.
 2. Run the script.
 3. Turn on amphetamine or otherwise to keep your machine running.
 
-When Rick is sining, sprint to book your slot.
+When Rick is singing, sprint to book your slot.
 
 ## Design notes.
 
